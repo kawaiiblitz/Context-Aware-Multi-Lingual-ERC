@@ -1,6 +1,6 @@
 # Datasets
 
-We provide four widely used ERC datasets, i.e., IEMOCAP, DailyDialog, EmoryNLP and MELD. For the multi-modal datasets (IEMOCAP and MELD), we only use the textual parts.
+We provide four widely used ERC datasets, i.e., IEMOCAP and MELD. We only use the textual parts.
 
 The original datasets are in **original**, and the final datasets used are in **final**.
 
