@@ -1,4 +1,4 @@
-# ERCMC
+# Context-aware Multilingual ERC
 
 This repository contains the codes and datasets for project ""A Framework for Context-Aware Multilingual Emotion Recognition with Transformers".
 
