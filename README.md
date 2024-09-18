@@ -11,7 +11,7 @@ also incorporates the GPT-4o API with in-context learning to improve dialogue un
 
 - **run.py** : Main function to run the codes.
 - **arguments.py** : Containing all arguments we use.
-- **datasets** : Containing four ERC datasets, including IEMOCAP, DailyDialog, EmoryNLP and MELD.
+- **datasets** : Containing four ERC datasets, including IEMOCAP and MELD.
 - **models** : Containing simple implementations of models.
 - **utils** : Containing tools related to data access and processing.
 - **scripts** : Providing some scripts for training and testing, and some checkpoints for quick start.
