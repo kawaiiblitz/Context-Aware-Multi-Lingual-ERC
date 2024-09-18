@@ -16,3 +16,4 @@ also incorporates the GPT-4o API with in-context learning to improve dialogue un
 - **utils** : Containing tools related to data access and processing.
 - **scripts** : Providing some scripts for training and testing, and some checkpoints for quick start.
 - **roberta-base** : To run the codes, one should download the pre-trained RoBERTa models from [huggingface](https://huggingface.co/models).
+- **roberta-base-bne** : (trained with Spanish corpus). To run the codes, one should download the pre-trained RoBERTa models from [huggingface](https://huggingface.co/models).
