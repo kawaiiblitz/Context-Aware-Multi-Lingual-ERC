@@ -8,7 +8,7 @@ class Client:
         pass
 
 class LlamaCpp(Client):
-    def __init__(self, base_url="http://localhost:8080/v1", api_key="sk-no-key-required"):
+    def __init__(self, base_url=""):
         super().__init__(api_key)
         self.base_url = base_url
         self.client = openai.OpenAI(base_url=base_url, api_key=self.api_key)
