@@ -13,6 +13,7 @@ also incorporates the GPT-4o API with in-context learning to improve dialogue un
 - **arguments.py** : Containing all arguments we use.
 - **datasets** : Containing four ERC datasets, including IEMOCAP and MELD.
 - **models** : Containing simple implementations of models.
+- **in-context** : Containing the examples for in-context using gpt4o.
 - **utils** : Containing tools related to data access and processing.
 - **scripts** : Providing some scripts for training and testing, and some checkpoints for quick start.
 - **roberta-base** : To run the codes, one should download the pre-trained RoBERTa models from [huggingface](https://huggingface.co/models).
