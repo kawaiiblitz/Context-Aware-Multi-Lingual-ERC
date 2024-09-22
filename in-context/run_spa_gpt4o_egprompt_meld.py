@@ -6,7 +6,6 @@ import argparse
 import os
 
 client = OpenAI(api_key="")
-#client = OpenAI(api_key="sk-proj-mIBfZ8gai9pggyoi6h9KT3BlbkFJ8haRC712NRQ8SuPmjYGS")
 
 def classify_text(text):
     examples = [
